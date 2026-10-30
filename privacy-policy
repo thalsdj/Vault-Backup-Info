@@ -1,0 +1,68 @@
+<!doctype html>  
+      <html lang="en">
+      <head>
+        <meta charset="utf-8">                                                                      
+        <meta name="viewport" content="width=device-width, initial-scale=1">                        
+        <title>Vault Backup — Privacy Policy</title>                                                
+      </head>                                                                                       
+      <body>                                                                                        
+        <main>                                                                                      
+          <h1>Vault Backup Privacy Policy</h1>                                                      
+          <h2>Purpose and operator</h2>                                                             
+          <p>                                                                                       
+            Vault Backup is a private, single-user backup utility operated                          
+            by the owner of the thalsdj GitHub account. It is not offered                           
+            as a public service.                                                                    
+          </p>                                                                                      
+          <h2>Google account access</h2>                                                            
+          <p>                                                                                       
+            The operator authorises Rclone to access Google Drive for                               
+            storing and managing a personal Restic backup repository.                               
+            Access is used to create, list, read, and delete backup                                 
+            repository files as needed for backup, maintenance, and recovery.                       
+            This utility does not request Gmail or Google Calendar access.                          
+          </p>                                                                                      
+          <h2>Data storage and protection</h2>                                                      
+          <p>                                                                                       
+            Restic encrypts backup contents and file metadata before upload.                        
+            Encrypted repository data is stored in the operator's Google                            
+            Drive. Google processes account and storage information under                           
+            its own terms and privacy policy.                                                       
+          </p>                                                                                      
+          <p>                                                                                       
+            OAuth credentials and the backup password are kept in private                           
+            storage controlled by the operator. They are not published on                           
+            this website or in its public GitHub repository.                                        
+          </p>                                                                                      
+          <h2>Sharing and use</h2>                                                                  
+          <p>                                                                                       
+            The operator does not sell Google user data, use it for                                 
+            advertising, or intentionally share it with other users.                                
+            Google user data is not used to train artificial intelligence                           
+            or machine-learning models.                                                             
+          </p>                                                                                      
+          <p>                                                                                       
+            Vault Backup's use and transfer of information received from                            
+            Google APIs adheres to the Google API Services User Data Policy,                        
+            including its Limited Use requirements.                                                 
+          </p>                                                                                      
+          <h2>Retention and deletion</h2>                                                           
+          <p>                                                                                       
+            Backups remain until the operator removes them using backup                             
+            retention tools or deletes the repository. Google Drive trash                           
+            and provider retention may affect final deletion.                                       
+            Access can be revoked through the operator's Google Account                             
+            permissions. Revoking access does not delete existing backups.                          
+          </p>                                                                                      
+          <h2>Contact</h2>                                                                          
+          <p>                                                                                       
+            Questions about this utility can be submitted through                                   
+            <a href="https://github.com/thalsdj/Vault-Backup-Info/issues">                          
+              the project's GitHub issue tracker</a>.                                               
+            Do not submit private information, credentials, or backup                               
+            contents in a public issue.                                                             
+          </p>                                                                                      
+          <p><a href="index.html">Home</a></p>                                                      
+        </main>                                                                                     
+      </body>                                                                                       
+      </html>   
